@@ -1,0 +1,32 @@
+[
+    {
+        "id": null,
+        "room_id": 101,
+        "name": "King Size",
+        "description": "description 1",
+        "is_deleted": 0,
+        "status": 1,
+        "createdAt": "2024-12-12 12:12:12",
+        "updatedAt": "2024-12-12 12:12:12"
+    },
+    {
+        "id": null,
+        "room_id": 201,
+        "name": "Queen Size",
+        "description": "description 2",
+        "is_deleted": 0,
+        "status": 1,
+        "createdAt": "2024-12-12 12:12:12",
+        "updatedAt": "2024-12-12 12:12:12"
+    },
+    {
+        "id": null,
+        "room_id": 301,
+        "name": "Single Bed",
+        "description": "description 3",
+        "is_deleted": 0,
+        "status": 1,
+        "createdAt": "2024-12-12 12:12:12",
+        "updatedAt": "2024-12-12 12:12:12"
+    }
+]
